@@ -1,0 +1,10 @@
+disableHugoGeneratorInject = true
+
+baseURL = 'https://localhost/'
+languageCode = 'en-US'
+title = 'Astral Linux'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 1
